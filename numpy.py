@@ -1,3 +1,4 @@
+#This is like an intro to numpy
 import numpy as np 
 
 integers=np.arange(a,b)
